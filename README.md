@@ -2,7 +2,7 @@
 - 👀 I’m interested in Games
 - 🌱 I’m currently learning Game Design and Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me chavezrainheartbanico@gmail.com
+- 📫 How to reach me chavez.rainheartbanico@gmail.com
 
 <!---
 RainheartChavez/RainheartChavez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
